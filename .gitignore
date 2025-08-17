@@ -6,6 +6,7 @@ build/
 !**/src/test/**/build/
 
 application-remote.yml
+*.yaml
 
 ### STS ###
 .apt_generated
